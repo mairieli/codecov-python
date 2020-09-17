@@ -10,4 +10,4 @@ build/
 coverage.xml
 dist
 htmlcov
-venv
+venv  
